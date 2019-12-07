@@ -1,5 +1,1 @@
 var a = 'aa'
-var bb = 'bb'
-var c = 'c'
-var d = 'd'
-var e = 'e'
